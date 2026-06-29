@@ -52,7 +52,8 @@ FPGA_Digital_Clock/
 
 
 ├── tb/
-│ └── tb_clock.v
+
+│── tb_clock.v
 
 ├── waveform/
 
