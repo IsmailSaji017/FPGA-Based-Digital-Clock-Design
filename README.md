@@ -128,5 +128,7 @@ digital_clock.v
 tb_clock.v
 
 waveform screenshot
+<img width="1887" height="600" alt="Screenshot 2026-06-21 205130" src="https://github.com/user-attachments/assets/8810f843-ecdb-4453-9eee-16c4b6d1f57f" />
 
-simulation output screenshot
+
+
